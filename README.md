@@ -7,7 +7,6 @@ It includes a clean dataset, a complete analysis workbook, pivot tables, charts,
 
 📂 Project Structure
 customer-support-analytics/
-│
 ├── customer_support_data.xlsx         # dataset (200 rows)
 ├── Customer_Support_Analysis.xlsx    # Full analysis with charts & insights
 └── README.md
