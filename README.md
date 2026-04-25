@@ -1,43 +1,127 @@
-Customer support KPIs, dashboard, and insights using Excel. Customer Support Analytics 📊
+---
 
-This project analyses customer support ticket data to uncover trends, service performance, and opportunities for operational improvement. It includes a clean dataset, a complete analysis workbook, pivot tables, charts, and insights based on KPIs commonly used in customer service reporting.
+## **Customer Support Analytics 📊**
 
-📂 Project Structure customer-support-analytics/ ├── customer_support_data.xlsx # dataset (200 rows) ├── Customer_Support_Analysis.xlsx # Full analysis with charts & insights └── README.md
+This project focuses on analysing customer support ticket data to identify trends, evaluate service performance, and uncover opportunities for operational improvement. It includes a structured dataset, a comprehensive Excel analysis workbook, and data-driven insights based on key customer service KPIs.
 
-🎯 Project Objectives
+---
 
-Analyse customer support performance
-Identify trends in ticket volume and issue categories
-Evaluate channel performance (Phone, Email, Chat)
-Assess operational efficiency (Handling Time, Escalations)
-Provide actionable business insights
-📊 Key KPIs Analysed
+## **📂 Project Structure**
 
-Ticket Volume by Issue Type
-Ticket Volume by Channel
-Average Handling Time
-Average CSAT Score
-Monthly Ticket Trends
-Escalation Rate
-🔍 Key Insights
+```
+customer-support-analytics/
+├── customer_support_data.xlsx        # Dataset (200 rows)
+├── Customer_Support_Analysis.xlsx   # Analysis with dashboards, charts & insights
+└── README.md
+```
 
-Billing is the biggest problem area Billing-related tickets are the most frequent and also take the longest to handle. This indicates: #Customer confusion around billing #Possible system/process inefficiencies #Need for improved agent training or self-service content
+---
 
-Phone support delivers the highest CSAT Among all channels, Phone has the best customer satisfaction. This suggests customers prefer: #Faster resolution #Human interaction #Real-time support
+## **🎯 Project Objectives**
 
-Billing issues have the highest handling time This reinforces Billing as the primary operational challenge.
+* Analyse overall customer support performance
+* Identify trends in ticket volume and issue categories
+* Evaluate performance across support channels (Phone, Email, Chat)
+* Assess operational efficiency (handling time, escalations)
+* Provide actionable business insights
 
-August 2024 saw the highest ticket volume Seasonal/operational spikes should be considered for: #Workforce planning #Staffing levels #Load balancing
+---
 
-Escalation rate is high (36%) This indicates: #First-contact resolution is low #Agents may lack decision-making authority #Processes need improvement
+## **📊 Key KPIs Analysed**
 
-📈 Charts Included in the Analysis The Excel workbook contains: 1. Line Chart: Tickets per Month 2. Bar Chart: Average CSAT by Channel 3. Bar Chart: Avg Handling Time by Issue Type
+* Ticket Volume by Issue Type
+* Ticket Volume by Channel
+* Average Handling Time (AHT)
+* Average CSAT Score
+* Monthly Ticket Trends
+* Escalation Rate
 
-All charts are built using Excel and based on the uploaded dataset.
+---
 
-🛠 Tools Used
+## **🔍 Key Insights**
 
-Excel (Pivot Tables, Charts, Data Cleaning)
-Python (Data generation & automated analysis)
-OpenPyXL (Workbook automation)
-📬 Contact If you're a recruiter or hiring manager interested in discussing this project: LinkedIn: https://www.linkedin.com/in/priyanka-more-a476021a6/ Email: priyarmore88@gmail.com
+### **1. Billing is the primary problem area**
+
+* Billing-related tickets are the most frequent
+* They also have the highest handling time
+
+**Implications:**
+
+* Customer confusion around billing processes
+* Potential system or process inefficiencies
+* Need for improved agent training or self-service resources
+
+---
+
+### **2. Phone support achieves the highest CSAT**
+
+* Phone support outperforms Email and Chat in customer satisfaction
+
+**This suggests customers value:**
+
+* Faster resolution
+* Human interaction
+* Real-time support
+
+---
+
+### **3. Billing issues drive operational inefficiency**
+
+* Highest average handling time is associated with billing queries
+* Reinforces billing as a critical area for process improvement
+
+---
+
+### **4. August 2024 recorded the highest ticket volume**
+
+* Indicates a seasonal or operational spike
+
+**Considerations:**
+
+* Workforce planning
+* Staffing optimisation
+* Load balancing strategies
+
+---
+
+### **5. High escalation rate (36%)**
+
+* Suggests low first-contact resolution
+
+**Possible causes:**
+
+* Limited agent decision-making authority
+* Gaps in training or knowledge base
+* Inefficient processes
+
+---
+
+## **📈 Visualisations Included**
+
+The Excel analysis workbook contains:
+
+1. **Line Chart:** Monthly ticket trends
+2. **Bar Chart:** Average CSAT by channel
+3. **Bar Chart:** Average handling time by issue type
+
+All visualisations are created using Excel and based on the provided dataset.
+
+---
+
+## **🛠 Tools Used**
+
+* **Excel:** Pivot tables, dashboards, charts, data cleaning
+* **Python:** Data generation and automated analysis
+* **OpenPyXL:** Workbook automation
+
+---
+
+## **📬 Contact**
+
+If you’re a recruiter or hiring manager interested in discussing this project:
+
+* **LinkedIn:** [https://www.linkedin.com/in/priyanka-more-a476021a6/](https://www.linkedin.com/in/priyanka-more-a476021a6/)
+* **Email:** [priyarmore88@gmail.com](mailto:priyarmore88@gmail.com)
+
+---
+
